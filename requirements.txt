@@ -37,7 +37,7 @@ nbconvert==5.2.1
 nbformat==4.3.0
 notebook==6.1.5
 numexpr==2.6.2
-numpy==1.14.0
+numpy==1.22.0
 olefile==0.44
 pandas==0.20.2
 pandocfilters==1.4.1
